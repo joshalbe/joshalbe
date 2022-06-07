@@ -1,4 +1,4 @@
-### Hey, my name is Joshua Albe
+### Hello, my name is Joshua Albe
 
 [Resume](https://resume.creddle.io/resume/ie6b08n6lr6)
 

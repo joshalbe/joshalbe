@@ -1,14 +1,16 @@
 ### Hey, my name is Joshua Albe
 
-[Resume]()
+[Resume](https://resume.creddle.io/resume/ie6b08n6lr6)
 
-[Marble in the Land of Dreams Itch](https://reposeproductions.itch.io/sandman)
-(Currently named Sandman)
+[The Sandman Itch](https://reposeproductions.itch.io/sandman)
 
-- 🔭 I’m currently working on making the game Marble in the Land of Dreams.
-- 🌱 I’m currently learning how to get my name out there.
-- 👯 I’m looking to collaborate on any cool game idea.
-- 🤔 I’m looking for help with job searching.
-- 💬 Ask me about my experiences in AIE.
-- 📫 How to reach me: joshjalbe@gmail.com
-- ⚡ Fun fact: I specialize in AI programming!
+I am a game programmer specializing in AI, with skills in both Unity and Unreal. I've been interested in video games since I was five and my dad would play them after law school classes. This interest persisted through high school, where it broadened into an interest in computers and programming in general. After graduating from Northshore High School in Slidell, LA, I attended Operation Spark classes in New Orleans. After those, I enrolled in the Academy of Interactive Entertainment where I will be graduating in December with an Associate's Degree.
+
+# Current Projects of Interest:
+- I was the lead AI programmer for both my minor and major productions, the latter of which can be found in the Itch page above: The Sandman.
+- I am the lead programmer on a new project (currently under the name Monster Game) which will be a monster-collecting RPG game.
+- Development on The Sandman will continue, and hopefully another release will be ready later this year.
+
+## How to Reach Me:
+- joshjalbe@gmail.com
+- LinkedIN Joshua Albe
